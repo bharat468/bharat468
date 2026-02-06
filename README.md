@@ -1,69 +1,106 @@
-# 💫 About Me
+<h1 align="center">Hi 👋, I'm Bharat Kumar</h1>
+<h3 align="center">🚀 MERN Stack Developer | Full Stack Web Developer | India 🇮🇳</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00C4CC&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full+Stack+Web+Apps+Builder;Always+Learning+New+Tech;Open+Source+Contributor" />
+</p>
+
+---
+
+## 💫 About Me
 
 👋 Hi, I'm **Bharat Kumar** from **Sardarshahar, Churu (Rajasthan, India)**  
-💻 **MERN Stack Developer** passionate about building modern, scalable & user-friendly web applications  
 
-🚀 I love creating full-stack projects and solving real-world problems  
-🤝 Open to collaboration on exciting projects & open-source  
-📚 Always learning new technologies and improving my skills  
+💻 Passionate **MERN Stack Developer**  
+🚀 Building modern, scalable & user-friendly web apps  
+🤝 Open to collaboration & open-source projects  
+📚 Always learning new technologies  
+⚡ Love turning ideas into real-world applications  
 
 ---
 
 ## 🌐 Connect With Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/bharatpareek) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/bharatp.areek) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharat-kumar-3678a324a/) 
-[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:bharatpareek256@gmail.com)
+<p align="center">
+
+<a href="https://facebook.com/bharatpareek">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/bharatp.areek">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/bharat-kumar-3678a324a/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:bharatpareek256@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 # 💻 Tech Stack
 
 ### 🚀 Frontend
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-593d88?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js)
+![Redux](https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/node-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express-404d59?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/mongodb-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Socket.io](https://img.shields.io/badge/socket.io-black?style=for-the-badge&logo=socket.io)
+![NodeJS](https://img.shields.io/badge/Node-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404d59?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)
 
 ### 🛠 Tools & Deployment
-![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-039BE5?style=for-the-badge&logo=firebase)
-![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![AWS](https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws)
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=bharat468&theme=radical&hide_border=true)
-![](https://nirzak-streak-stats.vercel.app/?user=bharat468&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bharat468&theme=radical&hide_border=true&layout=compact)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=bharat468&show_icons=true&theme=radical&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bharat468&theme=radical&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharat468&layout=compact&theme=radical&hide_border=true"/>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bharat468&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=bharat468&theme=radical&no-frame=true&margin-w=6"/>
+</p>
 
 ---
 
-### ✨ Fun Fact
-⚡ I love turning ideas into real-world web apps
+## ✍️ Dev Quote
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
 
 ---
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=bharat468&icon=0&color=0)
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=bharat468&icon=5&color=12"/>
+</p>
