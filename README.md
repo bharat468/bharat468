@@ -1,105 +1,235 @@
-<h1 align="center">Hi 👋, I'm Bharat Kumar</h1>
-<h3 align="center">🚀 MERN Stack Developer | Full Stack Web Developer | India 🇮🇳</h3>
+```{=html}
+<!--
+  GitHub Profile README
+  Repository: https://github.com/bharat468/bharat468
+  Tip: Keep project links and profile details updated as your work evolves.
+-->
+```
+::: {align="center"}
+# Hi 👋, I'm Bharat Kumar
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00C4CC&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full+Stack+Web+Apps+Builder;Problem+Solver;Open+Source+Learner;Always+Learning+New+Tech" />
+### MERN Stack Developer · Full Stack Web Developer · India 🇮🇳
+
+Building modern, scalable, and user-friendly web applications with
+thoughtful UI and clean code.
+
+[![Typing
+SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=700&color=22D3EE&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Full+Stack+Web+App+Builder;Problem+Solver;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+
+```{=html}
+<p>
+```
+`<a href="https://github.com/bharat468">`{=html}
+`<img src="https://img.shields.io/badge/GitHub-bharat468-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>`{=html}
+`</a>`{=html} `<a href="mailto:bharatpareek256@gmail.com">`{=html}
+`<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Bharat"/>`{=html}
+`</a>`{=html}
+`<a href="https://www.linkedin.com/in/bharat-kumar-3678a324a/">`{=html}
+`<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>`{=html}
+`</a>`{=html}
+```{=html}
 </p>
+```
+:::
 
----
+------------------------------------------------------------------------
 
-# 💫 About Me
+## 👨‍💻 About Me
 
-👋 Hi, I'm **Bharat Kumar** from **Sardarshahar, Churu (Rajasthan, India)**  
+I'm **Bharat Kumar**, a developer from **Sardarshahar, Churu, Rajasthan,
+India**. I enjoy turning ideas into useful web experiences and building
+applications across the frontend and backend.
 
-💻 Passionate **MERN Stack Developer**  
-🚀 I build modern, scalable & user-friendly web applications  
-🧠 Love solving real-world problems with clean code  
-🤝 Open to collaboration & open-source projects  
-📚 Continuously learning and improving my skills  
+-   🚀 Focused on **MERN stack and full-stack web development**
+-   🧩 Interested in building practical, maintainable, and user-friendly
+    applications
+-   🎨 Enjoy creating clean interfaces and connecting them to reliable
+    APIs
+-   🤝 Open to collaboration, learning, and open-source contributions
+-   📚 Continuously improving my development skills and exploring new
+    technologies
 
----
+------------------------------------------------------------------------
 
-## 🌐 Connect With Me
+## 🧰 Tech Stack
 
-<p align="center">
+### Frontend
 
-<a href="https://facebook.com/bharatpareek">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/bharatp.areek">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/bharat-kumar-3678a324a/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:bharatpareek256@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,bootstrap" alt="HTML, CSS, JavaScript, React, Next.js, Redux, Tailwind CSS and Bootstrap"/>`{=html}
+```{=html}
 </p>
+```
+### Backend & Databases
 
----
-
-# 💻 Tech Stack
-
-### 🚀 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js)
-![Redux](https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap)
-
-### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/Node-6DA55F?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-404d59?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)
-
-### 🛠 Tools & Deployment
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws)
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bharat468&show_icons=true&theme=radical&hide_border=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bharat468&theme=radical&hide_border=true" height="170"/>
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Node.js, Express, MongoDB and MySQL"/>`{=html}
+`<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO"/>`{=html}
+```{=html}
 </p>
+```
+### Tools & Deployment
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharat468&layout=compact&theme=radical&hide_border=true"/>
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=git,github,postman,firebase,vercel,aws,docker" alt="Git, GitHub, Postman, Firebase, Vercel, AWS and Docker"/>`{=html}
+`<img src="https://img.shields.io/badge/Render-111827?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-## 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=bharat468&theme=radical&no-frame=true"/>
-</p>
+## 🚀 Featured Projects
 
----
+```{=html}
+<table>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td width="50%" valign="top">
+```
+### 🧳 Mysathi
 
-## ✨ Developer Philosophy
+A railway and coolie-booking platform concept with passenger-facing
+flows and booking-related features.
 
-> **"For me, coding is an art.  
-> I craft solutions with creativity, logic, and passion — turning ideas into real-world applications."**
+**Focus areas** - Booking and availability workflows - Passenger-facing
+user experience - Full-stack feature development
 
----
+    </td>
+    <td width="50%" valign="top">
 
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=bharat468&icon=5&color=12"/>
-</p>
+### 📸 Sosal --- Instagram Clone
+
+A social application built around familiar social-media interactions.
+
+**Tech** - Node.js, Express, MongoDB - Cloudinary for media - Redux for
+state management
+
+**[Open live project ↗](https://sosal-frontend.onrender.com/)**
+
+    </td>
+
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td width="50%" valign="top">
+```
+### 🌍 RJ Tours
+
+A travel website built with a modern frontend stack.
+
+**Tech** - React - TypeScript - Vite - Tailwind CSS
+
+    </td>
+    <td width="50%" valign="top">
+
+### 🏡 RentMate
+
+A rental property management platform concept focused on a modern,
+usable dashboard experience.
+
+**Focus areas** - Property-management workflows - Reusable UI
+components - Responsive frontend architecture
+
+    </td>
+
+```{=html}
+</tr>
+```
+```{=html}
+</table>
+```
+> Some project descriptions summarize the work and technology context.
+> Add the corresponding repository or live-demo link when it is public
+> and ready to share.
+
+------------------------------------------------------------------------
+
+## 📊 GitHub at a Glance
+
+::: {align="center"}
+`<a href="https://github.com/bharat468">`{=html}
+`<img height="180" src="https://github-readme-stats.vercel.app/api?username=bharat468&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Bharat's GitHub statistics"/>`{=html}
+`</a>`{=html} `<a href="https://github.com/bharat468">`{=html}
+`<img height="180" src="https://streak-stats.demolab.com?user=bharat468&hide_border=true&theme=transparent" alt="Bharat's GitHub contribution streak"/>`{=html}
+`</a>`{=html}
+
+`<br/>`{=html}
+
+`<a href="https://github.com/bharat468">`{=html}
+`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharat468&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used languages on GitHub"/>`{=html}
+`</a>`{=html}
+:::
+
+------------------------------------------------------------------------
+
+## 🏆 GitHub Achievements
+
+::: {align="center"}
+[![GitHub
+Trophies](https://github-profile-trophy.vercel.app/?username=bharat468&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+:::
+
+------------------------------------------------------------------------
+
+## 🌱 Currently Learning & Improving
+
+-   Writing maintainable, reusable frontend components
+-   Building and integrating REST APIs
+-   Improving application architecture and database design
+-   Developing responsive, accessible user experiences
+-   Learning deployment and production-readiness practices
+
+------------------------------------------------------------------------
+
+## 🎯 Developer Goals
+
+-   Build useful projects that solve real problems
+-   Strengthen full-stack engineering fundamentals
+-   Collaborate with other developers and contribute to open source
+-   Keep learning and share progress through practical projects
+
+------------------------------------------------------------------------
+
+## 🤝 Connect With Me
+
+::: {align="center"}
+`<a href="https://www.linkedin.com/in/bharat-kumar-3678a324a/">`{=html}
+`<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>`{=html}
+`</a>`{=html} `<a href="https://instagram.com/bharatp.areek">`{=html}
+`<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>`{=html}
+`</a>`{=html} `<a href="https://facebook.com/bharatpareek">`{=html}
+`<img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>`{=html}
+`</a>`{=html} `<a href="mailto:bharatpareek256@gmail.com">`{=html}
+`<img src="https://img.shields.io/badge/Gmail-Send%20an%20email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>`{=html}
+`</a>`{=html}
+:::
+
+------------------------------------------------------------------------
+
+::: {align="center"}
+### 💡 My Developer Philosophy
+
+*"Coding is a craft: combine creativity, logic, and continuous learning
+to turn ideas into useful solutions."*
+
+`<br/>`{=html}
+
+![Profile
+Views](https://komarev.com/ghpvc/?username=bharat468&style=flat-square&color=22D3EE&label=Profile%20Views)
+
+**Thanks for visiting my profile!** ⭐
+:::
