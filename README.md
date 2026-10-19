@@ -1,10 +1,8 @@
 # Hi 👋, I'm Bharat Kumar
 
-### MERN Stack Developer | Full Stack Web Developer | India 🇮🇳
+### MERN Stack Developer | Full Stack Web Developer 🇮🇳
 
-I build modern, scalable, and user-friendly web applications with clean code and thoughtful UI.
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=700&color=22D3EE&width=650&lines=MERN+Stack+Developer;Full+Stack+Web+App+Builder;Problem+Solver;Always+Learning+New+Technologies)
+I build modern, responsive, and user-friendly web applications using JavaScript and the MERN stack. I enjoy developing practical solutions, integrating APIs, and writing clean, maintainable code.
 
 [![GitHub](https://img.shields.io/badge/GitHub-bharat468-181717?style=flat-square&logo=github)](https://github.com/bharat468)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bharat-kumar-3678a324a/)
@@ -15,17 +13,16 @@ I build modern, scalable, and user-friendly web applications with clean code and
 
 ## 👨‍💻 About Me
 
-I'm **Bharat Kumar**, a developer from **Sardarshahar, Churu, Rajasthan, India**. I enjoy turning ideas into useful web experiences and building applications across the frontend and backend.
-
-- 🚀 Focused on **MERN stack and full-stack web development**
-- 🧩 Interested in practical, maintainable, and user-friendly applications
-- 🎨 Enjoy creating clean interfaces and connecting them to reliable APIs
-- 🤝 Open to collaboration and open-source contributions
-- 📚 Continuously learning and exploring new technologies
+- 💻 Focused on JavaScript and MERN Stack development
+- ⚛️ Building applications with React.js, Next.js, Node.js, and Express.js
+- 🗄️ Working with MongoDB and REST APIs
+- 🎨 Interested in clean UI, responsive design, and reusable components
+- 🚀 Exploring backend architecture, real-time features, and deployment
+- 🤝 Open to collaboration and learning new technologies
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
 **Frontend**
 
@@ -37,11 +34,12 @@ I'm **Bharat Kumar**, a developer from **Sardarshahar, Churu, Rajasthan, India**
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-**Backend & Databases**
+**Backend & Database**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
@@ -52,78 +50,86 @@ I'm **Bharat Kumar**, a developer from **Sardarshahar, Churu, Rajasthan, India**
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧳 Mysathi
-A railway and coolie-booking platform with passenger-facing flows and booking-related features.
+### 1. Mysathi — Railway & Coolie Booking Platform
 
-- Booking and availability workflows
-- Passenger-focused user experience
-- Full-stack feature development
+A booking platform focused on passenger services and coolie booking workflows.
 
-### 📸 Sosal — Instagram Clone
-A social application built around familiar social-media interactions.
+- Developed booking-related features and API integrations
+- Worked on seat availability and booking flows
+- Contributed to frontend and backend functionality
 
-- **Tech:** Node.js, Express, MongoDB, Cloudinary, Redux
-- **Live Demo:** [sosal-frontend.onrender.com](https://sosal-frontend.onrender.com/)
+**Tech:** React, JavaScript, Node.js, REST APIs
 
-### 🌍 RJ Tours
-A travel website built with a modern frontend stack.
+### 2. Sosal — Instagram Clone
 
-- **Tech:** React, TypeScript, Vite, Tailwind CSS
+A social media application featuring familiar social networking functionality.
 
-### 🏡 RentMate
-A rental property management platform concept focused on a modern dashboard experience.
+- User-focused social application
+- Cloudinary integration for media handling
+- State management with Redux
 
-- Property-management workflows
+**Tech:** JavaScript, Node.js, Express.js, MongoDB, Cloudinary, Redux
+
+**Live Demo:** [sosal-frontend.onrender.com](https://sosal-frontend.onrender.com/)
+
+### 3. RJ Tours — Travel Website
+
+A responsive travel website built with a modern frontend stack.
+
+- Responsive user interface
+- Reusable frontend components
+- Type-safe development with TypeScript
+
+**Tech:** React, TypeScript, Vite, Tailwind CSS
+
+### 4. RentMate — Rental Management Dashboard
+
+A rental property management application focused on dashboard workflows.
+
+- Responsive dashboard interface
 - Reusable UI components
-- Responsive frontend architecture
+- Frontend and API integration work
+
+**Tech:** React, JavaScript, Express.js, PostgreSQL, Prisma
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bharat468&show_icons=true&hide_border=true&theme=transparent&rank_icon=github)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bharat468&show_icons=true&hide_border=true&theme=transparent" alt="Bharat's GitHub Stats" />
+  <img height="165" src="https://github-readme-streak-stats.demolab.com?user=bharat468&hide_border=true&theme=transparent" alt="Bharat's GitHub Streak" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=bharat468&hide_border=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bharat468&layout=compact&hide_border=true&theme=transparent&langs_count=8)
-
----
-
-## 🏆 GitHub Achievements
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bharat468&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharat468&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most Used Languages" />
+</p>
 
 ---
 
-## 🌱 Currently Learning & Improving
+## 🌱 Currently Improving
 
-- Writing maintainable, reusable frontend components
-- Building and integrating REST APIs
-- Improving application architecture and database design
-- Developing responsive, accessible user experiences
-- Learning deployment and production-readiness practices
-
-## 🎯 Developer Goals
-
-- Build useful projects that solve real problems
-- Strengthen full-stack engineering fundamentals
-- Collaborate with developers and contribute to open source
-- Keep learning through practical projects
+- JavaScript and React fundamentals
+- Node.js and Express.js backend development
+- REST API design and integration
+- Database design and query optimization
+- Authentication and application security
+- Docker, deployment, and production readiness
+- Problem-solving and coding interview preparation
 
 ---
 
 ## 🤝 Connect With Me
 
-- **GitHub:** [github.com/bharat468](https://github.com/bharat468)
+- **GitHub:** [bharat468](https://github.com/bharat468)
 - **LinkedIn:** [Bharat Kumar](https://www.linkedin.com/in/bharat-kumar-3678a324a/)
 - **Instagram:** [@bharatp.areek](https://instagram.com/bharatp.areek)
 - **Facebook:** [bharatpareek](https://facebook.com/bharatpareek)
@@ -131,8 +137,14 @@ A rental property management platform concept focused on a modern dashboard expe
 
 ---
 
-> 💡 *“Coding is a craft: combine creativity, logic, and continuous learning to turn ideas into useful solutions.”*
+<p align="center">
+  <i>Building, learning, and improving one project at a time.</i>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=bharat468&style=flat-square&color=22D3EE&label=Profile%20Views)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bharat468&style=flat-square&color=22D3EE&label=Profile+Views" alt="Profile Views" />
+</p>
 
-**Thanks for visiting my profile!** ⭐
+<p align="center">
+  <b>Thanks for visiting my profile! ⭐</b>
+</p>
