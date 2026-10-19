@@ -2,12 +2,22 @@
 
 ### MERN Stack Developer | Full Stack Web Developer 🇮🇳
 
-I build modern, responsive, and user-friendly web applications using JavaScript and the MERN stack. I enjoy developing practical solutions, integrating APIs, and writing clean, maintainable code.
+I build modern, responsive, and user-friendly web applications using JavaScript and the MERN stack. I enjoy solving real-world problems, developing REST APIs, and creating clean, maintainable applications.
 
-[![GitHub](https://img.shields.io/badge/GitHub-bharat468-181717?style=flat-square&logo=github)](https://github.com/bharat468)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bharat-kumar-3678a324a/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram)](https://instagram.com/bharatp.areek)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bharatpareek256@gmail.com)
+<p>
+  <a href="https://github.com/bharat468">
+    <img src="https://img.shields.io/badge/GitHub-bharat468-181717?style=flat-square&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/bharat-kumar-3678a324a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/bharatp.areek">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram" alt="Instagram" />
+  </a>
+  <a href="mailto:bharatpareek256@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
@@ -15,134 +25,150 @@ I build modern, responsive, and user-friendly web applications using JavaScript 
 
 - 💻 Focused on JavaScript and MERN Stack development
 - ⚛️ Building applications with React.js, Next.js, Node.js, and Express.js
-- 🗄️ Working with MongoDB and REST APIs
+- 🗄️ Working with MongoDB, MySQL, and REST APIs
 - 🎨 Interested in clean UI, responsive design, and reusable components
-- 🚀 Exploring backend architecture, real-time features, and deployment
-- 🤝 Open to collaboration and learning new technologies
+- 🔌 Exploring API integration, authentication, and real-time features
+- 🚀 Learning deployment and production-ready application development
+- 🤝 Open to collaboration and interesting development projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
 
-**Backend & Database**
+### Backend & Databases
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.IO" />
+</p>
 
-**Tools & Deployment**
+### Tools & Deployment
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. Mysathi — Railway & Coolie Booking Platform
+### 🧳 Mysathi — Railway & Coolie Booking Platform
 
-A booking platform focused on passenger services and coolie booking workflows.
+A booking platform focused on railway passenger services and coolie booking workflows.
 
-- Developed booking-related features and API integrations
-- Worked on seat availability and booking flows
-- Contributed to frontend and backend functionality
+- Booking and availability features
+- Passenger-focused user experience
+- API integration and full-stack development
 
-**Tech:** React, JavaScript, Node.js, REST APIs
+**Technologies:** JavaScript, React, Node.js, REST APIs
 
-### 2. Sosal — Instagram Clone
+### 📸 Sosal — Instagram Clone
 
-A social media application featuring familiar social networking functionality.
+A social media application built around social networking and media-sharing functionality.
 
-- User-focused social application
-- Cloudinary integration for media handling
-- State management with Redux
+- Social application features
+- Cloudinary integration for media management
+- Redux state management
 
-**Tech:** JavaScript, Node.js, Express.js, MongoDB, Cloudinary, Redux
+**Technologies:** JavaScript, Node.js, Express.js, MongoDB, Cloudinary, Redux
 
-**Live Demo:** [sosal-frontend.onrender.com](https://sosal-frontend.onrender.com/)
+**Live Demo:** [Visit Sosal](https://sosal-frontend.onrender.com/)
 
-### 3. RJ Tours — Travel Website
+### 🌍 RJ Tours — Travel Website
 
-A responsive travel website built with a modern frontend stack.
+A modern travel website designed to provide a responsive browsing experience.
 
-- Responsive user interface
-- Reusable frontend components
-- Type-safe development with TypeScript
+- Responsive UI
+- Reusable components
+- Type-safe frontend development
 
-**Tech:** React, TypeScript, Vite, Tailwind CSS
+**Technologies:** React, TypeScript, Vite, Tailwind CSS
 
-### 4. RentMate — Rental Management Dashboard
+### 🏡 RentMate — Rental Management Dashboard
 
-A rental property management application focused on dashboard workflows.
+A rental property management platform focused on dashboard workflows.
 
 - Responsive dashboard interface
 - Reusable UI components
-- Frontend and API integration work
+- API integration and data management
 
-**Tech:** React, JavaScript, Express.js, PostgreSQL, Prisma
+**Technologies:** React, JavaScript, Express.js, PostgreSQL, Prisma
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bharat468&show_icons=true&hide_border=true&theme=transparent" alt="Bharat's GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.demolab.com?user=bharat468&hide_border=true&theme=transparent" alt="Bharat's GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bharat468&show_icons=true&hide_border=true&theme=transparent&hide_title=true" alt="Bharat's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharat468&layout=compact&hide_border=true&theme=transparent&langs_count=6&hide=PHP" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharat468&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most Used Languages" />
+  <img src="https://komarev.com/ghpvc/?username=bharat468&style=flat-square&color=22D3EE&label=Profile+Views" alt="Profile Views" />
 </p>
 
 ---
 
 ## 🌱 Currently Improving
 
-- JavaScript and React fundamentals
+- JavaScript fundamentals and problem-solving
+- React.js and reusable component architecture
 - Node.js and Express.js backend development
 - REST API design and integration
 - Database design and query optimization
 - Authentication and application security
 - Docker, deployment, and production readiness
-- Problem-solving and coding interview preparation
+
+---
+
+## 🎯 Goals
+
+- Build useful applications that solve real-world problems
+- Strengthen full-stack development fundamentals
+- Write clean, reusable, and maintainable code
+- Improve problem-solving and interview skills
+- Collaborate with developers and contribute to open source
 
 ---
 
 ## 🤝 Connect With Me
 
-- **GitHub:** [bharat468](https://github.com/bharat468)
-- **LinkedIn:** [Bharat Kumar](https://www.linkedin.com/in/bharat-kumar-3678a324a/)
-- **Instagram:** [@bharatp.areek](https://instagram.com/bharatp.areek)
-- **Facebook:** [bharatpareek](https://facebook.com/bharatpareek)
-- **Email:** [bharatpareek256@gmail.com](mailto:bharatpareek256@gmail.com)
+<p>
+  <a href="https://github.com/bharat468">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/bharat-kumar-3678a324a/">LinkedIn</a> ·
+  <a href="https://instagram.com/bharatp.areek">Instagram</a> ·
+  <a href="https://facebook.com/bharatpareek">Facebook</a> ·
+  <a href="mailto:bharatpareek256@gmail.com">Email</a>
+</p>
 
 ---
 
 <p align="center">
   <i>Building, learning, and improving one project at a time.</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bharat468&style=flat-square&color=22D3EE&label=Profile+Views" alt="Profile Views" />
 </p>
 
 <p align="center">
